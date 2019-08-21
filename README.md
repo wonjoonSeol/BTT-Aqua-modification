@@ -4,8 +4,9 @@ AquaTouch credit : @yuuiko
 
 Original link: https://community.folivora.ai/t/v3-5-1-aquatouch-supports-40-apps-websites-and-the-native-touchbar/1704
 
-Installation guide: uninstall existing Aqua touch.
-Import AquaTouch v3.5.1 modified and then AquaTouch v3.5.1 extension.
+Installation guide: 
+1. uninstall existing Aqua touch preset.
+2. Import *AquaTouch v3.5.1 modified* and then *AquaTouch v3.5.1 extension*.
 
 Modification to the base v3.5.1 AquaTouch:
 - Added global quick tile snapping tool (After ESC key)
