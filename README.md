@@ -28,6 +28,7 @@ On keyboard shortcut setting page, please set :
 - Reduced gaps after ESC key
 
 - Added windows tile mangement touch tool (Modifier Option Key)
+
 Credit : GoldenChaos-BTT: A complete Touch Bar UI replacement preset
 https://community.folivora.ai/t/goldenchaos-btt-a-complete-touch-bar-ui-replacement-preset/1281
 
