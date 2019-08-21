@@ -15,6 +15,8 @@ Modification to the base v3.5.1 AquaTouch:
 
 <img width="1085" alt="Touch Bar Shot 2019-08-21 at 4 01 11 PM" src="https://user-images.githubusercontent.com/22602022/63409838-ee78a580-c42c-11e9-9202-45a2d15d0633.png">
 
+Note that this support is merely a 'hack'. The apps on station should be arranged in this order, or modify in BTT should you wish to change the order or add new apps on station. Consider this as a 'demo' to what can be done.
+
 - Added virtual desktop & Window tile management keyboard shortcut
 This should replace apps like Magnet.
 
