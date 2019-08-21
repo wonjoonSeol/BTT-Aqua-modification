@@ -10,7 +10,7 @@ Modification to the base v3.5.1 AquaTouch:
 
 - Added Kakakotalk support
 
-![image](https://user-images.githubusercontent.com/22602022/63412691-339fd600-c433-11e9-849a-965319991c7d.png)
+<img width="1085" alt="Touch Bar Shot 2019-08-21 at 3 50 25 PM" src="https://user-images.githubusercontent.com/22602022/63412875-8da09b80-c433-11e9-9674-ea6d4f38ac7e.png">
 
 - Added Station support
 
