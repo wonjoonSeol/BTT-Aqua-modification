@@ -42,7 +42,7 @@ Requires ruby gem *Istats* to function correctly.
 Credit: https://github.com/kikoso/btt-intelliJ-config
 
 
-- Chrome Support (Major modification to Aqua!)
+- Chrome Support (Note : Major modification to Aqua!)
 
 <img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 28 55 PM" src="https://user-images.githubusercontent.com/22602022/63499200-56e58680-c502-11e9-8aa7-c335f321ca97.png">
 
