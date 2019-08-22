@@ -73,4 +73,4 @@ Modified original one to have even width between all buttons.
 
 - Reduced gaps after ESC key
 - ESC now functions both as 'close group tab' and conventional ESC key
-
+- Gaming mode minor bug fix - update preset to 3.5.1 version
