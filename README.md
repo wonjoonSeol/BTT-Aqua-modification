@@ -37,7 +37,7 @@ Base credit : https://github.com/marekkaczkowski/Touch-Bar-iStats
 Requires ruby gem *Istats* to function correctly.
 
 - Added IntelliJ support
-<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 20 14 PM" src="https://user-images.githubusercontent.com/22602022/63499037-01a97500-c502-11e9-9f22-44a35f9866b2.png">
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 40 03 PM" src="https://user-images.githubusercontent.com/22602022/63499954-e3dd0f80-c503-11e9-9ad2-4bc1cd08432f.png">
 
 Credit: https://github.com/kikoso/btt-intelliJ-config
 
