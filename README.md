@@ -46,7 +46,7 @@ Credit: https://github.com/kikoso/btt-intelliJ-config
 
 <img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 28 55 PM" src="https://user-images.githubusercontent.com/22602022/63499200-56e58680-c502-11e9-8aa7-c335f321ca97.png">
 
--- Youtube Chrome support
+-- Youtube Chrome fix (Via media control tab)
 
 <img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 20 14 PM" src="https://user-images.githubusercontent.com/22602022/63498960-dcb50200-c501-11e9-9bbc-52ad965b1a0c.png">
 
