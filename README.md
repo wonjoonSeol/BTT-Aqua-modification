@@ -4,12 +4,15 @@ AquaTouch credit : @yuuiko
 
 Original link: https://community.folivora.ai/t/v3-5-1-aquatouch-supports-40-apps-websites-and-the-native-touchbar/1704
 
-Installation guide: 
+## Installation guide: 
 1. uninstall existing Aqua touch preset.
 2. Import *AquaTouch v3.5.1 modified* and then *AquaTouch v3.5.1 extension*.
 
-Modification to the base v3.5.1 AquaTouch:
+----
+
+## Modification to the base v3.5.1 AquaTouch:
 - Added global quick tile snapping tool (After ESC key)
+
 ![KakaoTalk_Photo_2019-08-22-17-30-38](https://user-images.githubusercontent.com/22602022/63499328-9a3ff500-c502-11e9-91b8-eb3d55d336c5.png)
 
 - Added Kakakotalk support
@@ -33,6 +36,8 @@ On keyboard shortcut setting page, please set :
 
 - Util tab
 
+<img width="1085" alt="KakaoTalk_Photo_2019-08-22-17-37-39" src="https://user-images.githubusercontent.com/22602022/63499801-919bee80-c503-11e9-86ae-d3deccf22c18.png">
+
 <img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 07 21 PM" src="https://user-images.githubusercontent.com/22602022/63498959-dcb50200-c501-11e9-9075-1f81432500f9.png">
 
 Invoked by Option + Control key.
@@ -51,11 +56,13 @@ Credit: https://github.com/kikoso/btt-intelliJ-config
 <img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 28 55 PM" src="https://user-images.githubusercontent.com/22602022/63499200-56e58680-c502-11e9-8aa7-c335f321ca97.png">
 
 -- Youtube Chrome support
+
 <img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 20 14 PM" src="https://user-images.githubusercontent.com/22602022/63498960-dcb50200-c501-11e9-9bbc-52ad965b1a0c.png">
 
 
 -- Google docs Chrome support
-<img width="1085" alt="Touch Bar Shot 2019-08-22 at 4 52 28 PM" src="https://user-images.githubusercontent.com/22602022/63498964-dfaff280-c501-11e9-9f1a-7946e8a9331e.png">
+
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 37 05 PM" src="https://user-images.githubusercontent.com/22602022/63499805-9496df00-c503-11e9-9540-1e41d7bbcc5f.png">
 
 
 - Added windows tile mangement touch tool (Modifier Option Key)
