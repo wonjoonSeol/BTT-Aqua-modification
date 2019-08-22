@@ -10,7 +10,7 @@ Installation guide:
 
 Modification to the base v3.5.1 AquaTouch:
 - Added global quick tile snapping tool (After ESC key)
-<img width="1085" alt="Touch Bar Shot 2019-08-21 at 3 59 01 PM" src="https://user-images.githubusercontent.com/22602022/63409720-b1141800-c42c-11e9-8bc0-9e51bac5b928.png">
+![KakaoTalk_Photo_2019-08-22-17-30-38](https://user-images.githubusercontent.com/22602022/63499328-9a3ff500-c502-11e9-91b8-eb3d55d336c5.png)
 
 - Added Kakakotalk support
 
@@ -18,7 +18,7 @@ Modification to the base v3.5.1 AquaTouch:
 
 - Added Station support
 
-<img width="1085" alt="Touch Bar Shot 2019-08-21 at 4 01 11 PM" src="https://user-images.githubusercontent.com/22602022/63409838-ee78a580-c42c-11e9-9202-45a2d15d0633.png">
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 28 58 PM" src="https://user-images.githubusercontent.com/22602022/63499202-5816b380-c502-11e9-9854-80327d1307df.png">
 
 Note that this support is merely a 'hack'. The apps on station should be arranged in this order, or modify in BTT should you wish to change the order or add new apps on station. Consider this as a 'demo' to what can be done.
 
@@ -31,8 +31,32 @@ On keyboard shortcut setting page, please set :
 
 ![image](https://user-images.githubusercontent.com/22602022/63409962-254ebb80-c42d-11e9-944e-89f5756cd951.png)
 
+- Util tab
 
-- Reduced gaps after ESC key
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 07 21 PM" src="https://user-images.githubusercontent.com/22602022/63498959-dcb50200-c501-11e9-9075-1f81432500f9.png">
+
+Invoked by Option + Control key.
+Base credit : https://github.com/marekkaczkowski/Touch-Bar-iStats
+
+Requires ruby gem *Istats* to function correctly.
+
+- Added IntelliJ support
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 20 14 PM" src="https://user-images.githubusercontent.com/22602022/63499037-01a97500-c502-11e9-9f22-44a35f9866b2.png">
+
+Credit: https://github.com/kikoso/btt-intelliJ-config
+
+
+- Chrome Support (Major modification to Aqua!)
+
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 28 55 PM" src="https://user-images.githubusercontent.com/22602022/63499200-56e58680-c502-11e9-8aa7-c335f321ca97.png">
+
+-- Youtube Chrome support
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 5 20 14 PM" src="https://user-images.githubusercontent.com/22602022/63498960-dcb50200-c501-11e9-9bbc-52ad965b1a0c.png">
+
+
+-- Google docs Chrome support
+<img width="1085" alt="Touch Bar Shot 2019-08-22 at 4 52 28 PM" src="https://user-images.githubusercontent.com/22602022/63498964-dfaff280-c501-11e9-9f1a-7946e8a9331e.png">
+
 
 - Added windows tile mangement touch tool (Modifier Option Key)
 
@@ -44,8 +68,9 @@ Modified original one to have even width between all buttons.
 
 - Donation and visit update thread remapped to Control Key ^ instead
 
-Work in progress:
 
-- Youtube Chrome support
+## Minor changes
 
-- Google docs Chrome support
+- Reduced gaps after ESC key
+- ESC now functions both as 'close group tab' and conventional ESC key
+
