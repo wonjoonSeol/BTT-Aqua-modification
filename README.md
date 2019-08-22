@@ -25,15 +25,6 @@ Original link: https://community.folivora.ai/t/v3-5-1-aquatouch-supports-40-apps
 
 Note that this support is merely a 'hack'. The apps on station should be arranged in this order, or modify in BTT should you wish to change the order or add new apps on station. Consider this as a 'demo' to what can be done.
 
-- Added virtual desktop & Window tile management keyboard shortcut.
-This should completely replace apps like Magnet.
-
-![image](https://user-images.githubusercontent.com/22602022/63409760-ca1cc900-c42c-11e9-96c6-dbd1b56e3e2c.png)
-
-On keyboard shortcut setting page, please set :
-
-![image](https://user-images.githubusercontent.com/22602022/63409962-254ebb80-c42d-11e9-944e-89f5756cd951.png)
-
 - Util tab
 
 <img width="1085" alt="KakaoTalk_Photo_2019-08-22-17-37-39" src="https://user-images.githubusercontent.com/22602022/63499801-919bee80-c503-11e9-86ae-d3deccf22c18.png">
@@ -74,6 +65,15 @@ Modified original one to have even width between all buttons.
 ![image](https://user-images.githubusercontent.com/22602022/63410098-7bbbfa00-c42d-11e9-9946-17e854d01a85.png)
 
 - Donation and visit update thread remapped to Control Key ^ instead
+
+- Added virtual desktop & Window tile management keyboard shortcut.
+This should completely replace apps like Magnet.
+
+![image](https://user-images.githubusercontent.com/22602022/63409760-ca1cc900-c42c-11e9-96c6-dbd1b56e3e2c.png)
+
+On keyboard shortcut setting page, please set :
+
+![image](https://user-images.githubusercontent.com/22602022/63409962-254ebb80-c42d-11e9-944e-89f5756cd951.png)
 
 
 ## Minor changes
