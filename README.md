@@ -11,9 +11,6 @@ Original link: https://community.folivora.ai/t/v3-5-1-aquatouch-supports-40-apps
 ----
 
 ## Modification to the base v3.5.1 AquaTouch:
-- Added global quick tile snapping tool (After ESC key)
-
-![KakaoTalk_Photo_2019-08-22-17-30-38](https://user-images.githubusercontent.com/22602022/63499328-9a3ff500-c502-11e9-91b8-eb3d55d336c5.png)
 
 - Added Kakakotalk support
 
@@ -58,11 +55,12 @@ Credit: https://github.com/kikoso/btt-intelliJ-config
 
 - Added windows tile mangement touch tool (Modifier Option Key)
 
-Credit : GoldenChaos-BTT: A complete Touch Bar UI replacement preset
-https://community.folivora.ai/t/goldenchaos-btt-a-complete-touch-bar-ui-replacement-preset/1281
+![image](https://user-images.githubusercontent.com/22602022/63410098-7bbbfa00-c42d-11e9-9946-17e854d01a85.png)
 
 Modified original one to have even width between all buttons.
-![image](https://user-images.githubusercontent.com/22602022/63410098-7bbbfa00-c42d-11e9-9946-17e854d01a85.png)
+
+Credit : GoldenChaos-BTT: A complete Touch Bar UI replacement preset
+https://community.folivora.ai/t/goldenchaos-btt-a-complete-touch-bar-ui-replacement-preset/1281
 
 - Donation and visit update thread remapped to Control Key ^ instead
 
