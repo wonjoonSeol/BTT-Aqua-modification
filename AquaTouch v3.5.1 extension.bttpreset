@@ -165,7 +165,7 @@
     "showOtherTriggersTab" : true,
     "BSTSnapAreaDefaultPictoDistanceFromLeft" : 0.10000000149011612
   },
-  "BTTPresetUUID" : "7933D425-21DC-4CA9-8105-16CEC4F16EC0",
+  "BTTPresetUUID" : "5F757AB5-E26F-4CC3-98BF-9F70F00EBEF3",
   "BTTPresetContent" : [
     {
       "BTTAppBundleIdentifier" : "com.kakao.KakaoTalkMac",
